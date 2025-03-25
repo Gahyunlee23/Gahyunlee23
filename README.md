@@ -12,7 +12,7 @@
 - 🌱 Currently diving into **Flutter** to explore mobile app development  
 - 💡 Always looking to collaborate on cool and meaningful projects  
 - ☕ Love **C** words: **Coffee, Cat, Coding**  
-- 📫 Reach me at **stella@newprint.ca**  
+- 📫 Reach me at **stellalee1119@gmail.com**  
 - 🔥 Fun fact: A highkey coffee lover—almost sus how much I drink ☕😆  
 
 ---
@@ -67,4 +67,5 @@
 <p align="center">
   <a href="mailto:stellalee1119@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Gahyunlee23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.notion.so/My-Coding-Portfolio-190f7a46f2c28036870ad3796600bd55"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
