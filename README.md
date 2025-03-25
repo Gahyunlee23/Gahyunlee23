@@ -20,15 +20,36 @@
 ### 🛠 Tech Stack  
 #### **Backend**  
 ![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?style=flat&logo=go&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)  
+![Fiber](https://img.shields.io/badge/Fiber-%2335C0FB.svg?style=flat&logo=fiber&logoColor=white)  
 ![Gin](https://img.shields.io/badge/Gin-%23000000.svg?style=flat&logo=gin&logoColor=white)  
 ![GORM](https://img.shields.io/badge/GORM-%234B275F.svg?style=flat&logo=go&logoColor=white)  
-![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white)  
+
+#### **Python**  
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)  
+
+#### **PHP**  
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23F05133.svg?style=flat&logo=codeigniter&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)  
+
+#### **Cloud & Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=white)  
+
+#### **Caching**  
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)  
+![Memcached](https://img.shields.io/badge/Memcached-%230A1D37.svg?style=flat&logo=memcached&logoColor=white)  
+
+#### **Message Queue**  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23314A86.svg?style=flat&logo=rabbitmq&logoColor=white)  
+
+#### **API & Communication**  
+![RESTful API](https://img.shields.io/badge/RESTful_API-%23F7B731.svg?style=flat&logo=api&logoColor=white)  
+![gRPC](https://img.shields.io/badge/gRPC-%232696FF.svg?style=flat&logo=grpc&logoColor=white)  
+
+#### **Monitoring**  
+![New Relic](https://img.shields.io/badge/New_Relic-%23FF6600.svg?style=flat&logo=newrelic&logoColor=white)  
 
 #### **Databases & DevOps**  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)  
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)  
 
