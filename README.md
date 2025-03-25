@@ -70,10 +70,10 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=stella-newprint&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stella-newprint&layout=compact&theme=tokyonight" height="150"/>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stella-newprint&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stella-newprint&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
