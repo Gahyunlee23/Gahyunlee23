@@ -20,7 +20,7 @@
 ### 🖥️ Tech Stack  
 
 ### 🛠️ Backend Development  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Fiber-%2335C0FB.svg?style=for-the-badge&logo=fiber&logoColor=white" />
   <img src="https://img.shields.io/badge/Gin-%23000000.svg?style=for-the-badge&logo=gin&logoColor=white" />
@@ -31,29 +31,29 @@
 </p>
 
 ### ☁️ Cloud & Infrastructure  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ### ⚡ Caching Solutions  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Memcached-%230A1D37.svg?style=for-the-badge&logo=memcached&logoColor=white" />
 </p>
 
 ### 📩 Message Queues  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/RabbitMQ-%23314A86.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
 
 ### 🌐 API & Communication  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/RESTful_API-%23F7B731.svg?style=for-the-badge&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/gRPC-%232696FF.svg?style=for-the-badge&logo=grpc&logoColor=white" />
 </p>
 
 ### 📊 Monitoring & Quality Tools  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Prometheus-%2300A3E0.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/New%20Relic-%23FF6600.svg?style=for-the-badge&logo=newrelic&logoColor=white" />
@@ -61,7 +61,7 @@
 </p>
 
 ### 🗄️ Databases & DevOps  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
