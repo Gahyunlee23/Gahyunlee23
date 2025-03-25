@@ -17,37 +17,56 @@
 
 ---
 
-### 🛠 Tech Stack  
-#### **Backend**  
-![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-%2335C0FB.svg?style=flat&logo=fiber&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-%23000000.svg?style=flat&logo=gin&logoColor=white)
-![GORM](https://img.shields.io/badge/GORM-%234B275F.svg?style=flat&logo=go&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23F05133.svg?style=flat&logo=codeigniter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)  
+### 🖥️ Tech Stack  
 
-#### **Cloud & Infrastructure**  
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=white)  
+### 🛠️ Backend Development  
+<p align="center">
+  <img src="https://img.shields.io/badge/Golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fiber-%2335C0FB.svg?style=for-the-badge&logo=fiber&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gin-%23000000.svg?style=for-the-badge&logo=gin&logoColor=white" />
+  <img src="https://img.shields.io/badge/GORM-%234B275F.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-%23F05133.svg?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
 
-#### **Caching**  
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
-![Memcached](https://img.shields.io/badge/Memcached-%230A1D37.svg?style=flat&logo=memcached&logoColor=white)  
+### ☁️ Cloud & Infrastructure  
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
-#### **Message Queue**  
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23314A86.svg?style=flat&logo=rabbitmq&logoColor=white)  
+### ⚡ Caching Solutions  
+<p align="center">
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Memcached-%230A1D37.svg?style=for-the-badge&logo=memcached&logoColor=white" />
+</p>
 
-#### **API & Communication**  
-![RESTful API](https://img.shields.io/badge/RESTful_API-%23F7B731.svg?style=flat&logo=api&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-%232696FF.svg?style=flat&logo=grpc&logoColor=white)  
+### 📩 Message Queues  
+<p align="center">
+  <img src="https://img.shields.io/badge/RabbitMQ-%23314A86.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+</p>
 
-#### **Monitoring**  
-![New Relic](https://img.shields.io/badge/New_Relic-%23FF6600.svg?style=flat&logo=newrelic&logoColor=white)  
+### 🌐 API & Communication  
+<p align="center">
+  <img src="https://img.shields.io/badge/RESTful_API-%23F7B731.svg?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-%232696FF.svg?style=for-the-badge&logo=grpc&logoColor=white" />
+</p>
 
-#### **Databases & DevOps**  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)  
+### 📊 Monitoring & Quality Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-%2300A3E0.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/New%20Relic-%23FF6600.svg?style=for-the-badge&logo=newrelic&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-%2300B5E2.svg?style=for-the-badge&logo=sonarqube&logoColor=white" />
+</p>
+
+### 🗄️ Databases & DevOps  
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+</p>
+
 
 ---
 
