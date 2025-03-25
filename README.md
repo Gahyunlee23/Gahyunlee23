@@ -13,7 +13,7 @@
 - 💡 Always looking to collaborate on cool and meaningful projects  
 - ☕ Love **C** words: **Coffee, Cat, Coding**  
 - 📫 Reach me at **stellalee1119@gmail.com**  
-- 🔥 Fun fact: A highkey coffee lover—almost sus how much I drink ☕😆  
+- 🔥 Fun fact: A highkey coffee lover—almost sus how much I drink ☕  
 
 ---
 
